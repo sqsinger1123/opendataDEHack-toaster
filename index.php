@@ -13,8 +13,13 @@
 </head>
 <body>
 	<header>
-		<img href="open_doors_logo.png"><h1>OpenDoors Delaware</h1>
-		<h2>By Team Toaster</h2>
+		<div style="width:45%; display:inline-block; margin:0;">
+			<img href="open_doors_logo.png">
+		</div>
+		<div style="width:45%; display:inline-block; border: margin:0;">
+			<h1>OpenDoors Delaware</h1>
+			<h2>By Team Toaster</h2>
+		</div>
 	</header>
 
 	<footer>
