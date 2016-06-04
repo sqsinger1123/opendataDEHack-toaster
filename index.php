@@ -1,4 +1,3 @@
-This is OpenDataDE Hackathon!
 
 
 <?php
