@@ -13,7 +13,7 @@
 </head>
 <body>
 	<header>
-		<h1>OpenDoors Delaware</h1>
+		<img href="open_doors_logo.png"><h1>OpenDoors Delaware</h1>
 		<h2>By Team Toaster</h2>
 	</header>
 
@@ -22,6 +22,9 @@
 			This page built with love by Team Toaster for
 			OpenDataDE's <a href="https://www.eventbrite.com/e/dataworks-delawares-first-open-data-hackathon-tickets-24040563974">Dataworks Hackathon</a>
 			on 2016-06-04.
+		</p>
+		<p>
+			Open Doors <a href="https://github.com/sqsinger1123/opendataDEHack-toaster">GitHub</a>. Help us help Delaware!
 		</p>
 	</footer>
 
