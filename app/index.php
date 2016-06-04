@@ -7,7 +7,10 @@
 <html>
 <head>
 	<title>OpenDoors Delaware</title>
+	<!-- Stylesheets and JS can go here soon. JS can also go in the footer -->
+
 </head>
+
 <body>
 	<header>
 		<h1>OpenDoors Delaware</h1>
