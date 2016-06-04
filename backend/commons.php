@@ -1,4 +1,4 @@
-<?
+<?php
 // Common utility functions
 
 function mGetVar($arr, $key, $default_value = '', $use_escape = false) {

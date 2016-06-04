@@ -1,4 +1,4 @@
-<? 
+<?php
 // Global Vars, Credentials, and DB config generalized for local service; changed for live server.
 // Redacted or edited for this sample.
 define('DB_DRIVER',			'mysql');

@@ -1,4 +1,4 @@
-<?
+<?php
 /*
  * MySQL class based on OpenCart framework & DB Class by Alex Korsukov, edited by Sam Singer
  * ArtCo 2016
