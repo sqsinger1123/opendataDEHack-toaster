@@ -34,7 +34,7 @@ final class MySQL {
 				mysqli_free_result($res);
 			}
 						
-			$query = new stdClass();
+			$query				= new stdClass();
 			$query->row			= isset($data[0])? $data[0] : array();
 			$query->rows		= $data;
 			$query->num_rows	= count($data);
