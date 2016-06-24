@@ -34,10 +34,14 @@ angular.module('app.routes', [])
     controller: 'marketplaceCtrl'
   })
 
-  .state('bidStatus', {
+  .state('menu.bidStatus', {
     url: '/page8',
-    templateUrl: 'templates/bidStatus.html',
-    controller: 'bidStatusCtrl'
+    views: {
+      'side-menu21': {
+        templateUrl: 'templates/bidStatus.html',
+        controller: 'bidStatusCtrl'
+      }
+    }
   })
 
   .state('placeBid', {
@@ -52,7 +56,17 @@ angular.module('app.routes', [])
     controller: 'loginCtrl'
   })
 
-$urlRouterProvider.otherwise('/page7')
+  .state('menu.account', {
+    url: '/page12',
+    views: {
+      'side-menu21': {
+        templateUrl: 'templates/account.html',
+        controller: 'accountCtrl'
+      }
+    }
+  })
+
+$urlRouterProvider.otherwise('/page5')
 
   
 
