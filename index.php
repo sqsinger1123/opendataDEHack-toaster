@@ -24,6 +24,11 @@
 			<h2>By Team Toaster</h2>
 		</div>
 	</header>
+	<article>
+		<h1>Simplifying Business with the Government</h1>
+		<p>Our platform makes it easy to bid for government contracts. We are opening doors for business owners and making it easy to succeed.</p>
+		<p>Right now, it's difficult for companies to do business with the State of Delaware. </p>
+	</article>
 
 	<footer>
 		<p>
